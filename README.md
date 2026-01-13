@@ -1,16 +1,51 @@
-## Hi there 👋
+# SabharishRajGK
+# Hi, I’m Sabharish 👋
 
-<!--
-**Sabharishraj/sabharishraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **1st-year Computer Science Engineering student** learning programming step by step and building strong fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+* 🎓 CSE student (AI & ML)
+* 🌱 Currently learning **C programming** and core CS basics
+* 🧠 Interested in understanding *how things work*, not just memorizing code
+* 📘 Believer in learning by practice
+
+---
+
+## 🛠️ What I’m Learning Now
+
+* C programming fundamentals
+* Problem solving & logic building
+* Basic data structures (arrays, linked lists)
+* Basics of web development
+* DSA basics in C
+
+---
+
+## 📂 My Repositories
+
+* **C-Files** → Simple C programs for beginners
+
+  * Covers basics, arrays, logic problems, and intro data structures
+  * Written while learning from scratch
+
+---
+
+## 🎯 Goals (Near-Term)
+
+* Strengthen C and programming fundamentals
+* Write clean, readable code
+* Explore more core CS subjects gradually
+
+---
+
+## 🤝 Let’s Connect
+* Linkedin: https://www.linkedin.com/in/sabharish-raj-9b7560364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* GitHub: Follow to see my learning progress
+* Open to learning together and improving step by step
+
+---
+
+> *This profile represents my learning journey as a beginner.*
