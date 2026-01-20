@@ -47,5 +47,6 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 * Open to learning together and improving step by step
 
 ---
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sabharish-raj-9b7560364" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sabharish-raj-9b7560364?trk=profile-badge">Sabharish raj</a></div>
+              
 > *This profile represents my learning journey as a beginner.*
