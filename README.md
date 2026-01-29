@@ -1,5 +1,5 @@
 # SabharishRajGK
-# Hi, I’m Sabharish 👋
+# Hi, I’m Sabharish 
 
 I’m a **1st-year Computer Science Engineering student** learning programming step by step and building strong fundamentals.
 
@@ -7,14 +7,14 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
 ##  About Me
 
-* 🎓 CSE student (AI & ML)
-* 🌱 Currently learning **C programming** and core CS basics
-* 🧠 Interested in understanding *how things work*, not just memorizing code
-* 📘 Believer in learning by practice
+*  CSE student (AI & ML)
+*  Currently learning **C programming** and core CS basics
+*  Interested in understanding *how things work*, not just memorizing code
+*  Believer in learning by practice
 
 ---
 
-## 🛠️ What I’m Learning Now
+##  What I’m Learning Now
 
 * C programming fundamentals
 * Problem solving & logic building
@@ -24,7 +24,7 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
 ---
 
-## 📂 My Repositories
+##  My Repositories
 
 * **C-Files** → Simple C programs for beginners
 
@@ -33,7 +33,7 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
 ---
 
-## 🎯 Goals (Near-Term)
+##  Goals (Near-Term)
 
 * Strengthen C and programming fundamentals
 * Write clean, readable code
@@ -41,7 +41,7 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 * Linkedin: https://www.linkedin.com/in/sabharish-raj-9b7560364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * GitHub: Follow to see my learning progress
 * Open to learning together and improving step by step
