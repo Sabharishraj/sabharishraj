@@ -30,7 +30,7 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
   * Covers basics, arrays, logic problems, and intro data structures
   * Written while learning from scratch
-* **Roastmycart -> Simple project built using `flutter` to control impulsive buying
+* **Roastmycart** -> Simple project built using `flutter` to control impulsive buying
   * Gives verdicts and controls impulsive buying
   * Gives insights about depreciation of the given product/
 ---
