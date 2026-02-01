@@ -18,9 +18,9 @@ I’m a **1st-year Computer Science Engineering student** learning programming s
 
 * C programming fundamentals
 * Problem solving & logic building
-* Basic data structures (arrays, linked lists)
 * Basics of web development
 * DSA basics in C
+* Using `n8n` and `Docker` to create automated workflows
 
 ---
 
