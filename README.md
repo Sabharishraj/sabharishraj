@@ -1,7 +1,7 @@
 # SabharishRajGK
 # Hi, I’m Sabharish 
 
-I’m a **1st-year Computer Science Engineering student** learning programming step by step and building strong fundamentals.
+I’m a **2nd-year Computer Science Engineering student** learning programming step by step and building strong fundamentals.
 
 ---
 
