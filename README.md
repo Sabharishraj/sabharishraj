@@ -1,5 +1,5 @@
-# SabharishRajGK
-# Hi, I’m Sabharish 
+# Sabharish Raj G K
+
 
 I’m a **2nd-year Computer Science Engineering student** learning programming step by step and building strong fundamentals.
 
